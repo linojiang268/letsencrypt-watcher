@@ -1,0 +1,27 @@
+vendor
+node_modules
+.env
+VueController.php
+vue/
+workspace
+webpack.config.js
+.babelrc
+
+# eclipse generated meta files
+.settings
+.buildpath
+.project
+
+# mac files
+.DS_STORE
+
+# netbeans files
+nbproject
+
+.env
+.gitattributes
+# intellij generated meta files
+.idea
+
+# ctags file
+tags
